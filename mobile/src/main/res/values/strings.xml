@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WearDaydreamController</string>
+
+    <string name="bluetooth_off_message">In order to accept Bluetooth connections from your headset phone, the Controller Emulator needs to enable Bluetooth on your device.</string>
+    <string name="bluetooth_off_message_negative_button">Cancel</string>
+    <string name="bluetooth_off_message_positive_button">Ok</string>
+
+    <string name="status_waiting_for_connection">Waiting for connection</string>
+    <string name="status_connected_network">Connected (TCP/IP)</string>
+    <string name="status_connected_bluetooth">Connected (Bluetooth)</string>
+    <string name="status_disconnected">Disconnected</string>
+</resources>

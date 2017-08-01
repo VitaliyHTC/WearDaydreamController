@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#6ebfff</color>
+    <color name="click_circle_color">#ffe84e40</color>
+    <color name="controller_outline_color">#20000000</color>
+    <color name="controller_fill_color">#ffffffff</color>
+    <color name="status_not_connected">#d84315</color>
+    <color name="status_connected">#00897b</color>
+</resources>
